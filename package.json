@@ -1,0 +1,15 @@
+{
+  "name": "your.package",
+  "version": "0.1.0",
+  "displayName": "Your Package",
+  "description": "Your package description",
+  "unity": "2020.1",
+  "author": {
+    "name": "Your name"
+  },
+  "dependencies": {
+  },
+  "keywords": [
+  ],
+  "hideInEditor": false
+}
