@@ -15,7 +15,8 @@ do:
    - description
    - unity-version, author
    - keywords
-2. Update readme
+2. Update license (This template used the Unlicense by default)
+3. Update readme
     - Title
     - Description
     - Features
