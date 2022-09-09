@@ -9,14 +9,15 @@ Check out the changelog [here](./CHANGELOG.md).
 When you use this template for your package, there are a few things you should
 do:
 
-1. Update package manifest 
-   - package name
-   - display- name
-   - description
-   - unity-version, author
-   - keywords
+1. Update package manifest
+    - package name
+    - display- name
+    - description
+    - unity-version, author
+    - keywords
 2. Update assemblies
-   - Rename runtime assembly and namespace
+    - Rename runtime assembly and namespace
+    - Rename editor assembly and namespace (or remove if not needed)
 3. Update license (This template used the Unlicense by default)
 4. Update readme
     - Title
