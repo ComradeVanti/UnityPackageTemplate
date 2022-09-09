@@ -15,8 +15,10 @@ do:
    - description
    - unity-version, author
    - keywords
-2. Update license (This template used the Unlicense by default)
-3. Update readme
+2. Update assemblies
+   - Rename runtime assembly and namespace
+3. Update license (This template used the Unlicense by default)
+4. Update readme
     - Title
     - Description
     - Features
