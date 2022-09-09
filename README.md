@@ -21,7 +21,8 @@ do:
     - Rename runtime-tests assembly and namespace (or remove if not needed)
     - Rename editor-tests assembly and namespace (or remove if not needed)
 3. Update license (This template used the Unlicense by default)
-4. Update readme
+4. Add documentation (Or remove the Documentation~ folder if not needed)
+5. Update readme
     - Title
     - Description
     - Features
