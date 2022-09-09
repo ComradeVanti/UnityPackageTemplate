@@ -1,1 +1,3 @@
 ﻿
+# Some global gitignores ignore meta files by default. Negate that
+!*.meta
