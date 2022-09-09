@@ -18,6 +18,7 @@ do:
 2. Update assemblies
     - Rename runtime assembly and namespace
     - Rename editor assembly and namespace (or remove if not needed)
+    - Rename runtime-tests assembly and namespace (or remove if not needed)
     - Rename editor-tests assembly and namespace (or remove if not needed)
 3. Update license (This template used the Unlicense by default)
 4. Update readme
